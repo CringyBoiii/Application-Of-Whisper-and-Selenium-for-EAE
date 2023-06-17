@@ -1,4 +1,4 @@
-Codes Under Mic.py have been adapted from https://github.com/mallorbc/whisper_mic
+Codes under Mic.py have been adapted from https://github.com/mallorbc/whisper_mic
 
 A virtual environment has to be set up in order for the program to run functionall
 
